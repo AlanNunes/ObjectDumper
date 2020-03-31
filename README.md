@@ -1,4 +1,7 @@
-# AN.ObjectDumper
+# What is AN.ObjectDumper ?
+It is a package that you can use in your .NET projects, allowing you to dump objects for generating logs.
+
+# How to use it ?
 Declare a string variable and call the static method **Dump** from **ObjectDumper** class
 ```c#
 string result = "";
