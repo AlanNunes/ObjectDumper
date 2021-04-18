@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>2.0.0</Version>
+    <Authors>Alan Nunes</Authors>
+    <Product>Object Dumper By Depth</Product>
+    <Description>Dumps objects and the inner objects (depending on depth parameter) for logging and debugging needs.</Description>
+    <PackageProjectUrl>https://github.com/AlanNunes/ObjectDumper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/AlanNunes/ObjectDumper</RepositoryUrl>
+    <PackageTags>dump; logging; dump object;</PackageTags>
+  </PropertyGroup>
+
+</Project>
